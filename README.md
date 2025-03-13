@@ -1,3 +1,5 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L5rZQs-5EjM" frameborder="0" allowfullscreen></iframe>
+
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zibojia&repo=SENORITA&label=visitors)
