@@ -106,10 +106,10 @@ CUDA_VISIBLE_DEVICES=0 python3 app.py
 
 ## 👥 Authors
 
-- <a href="https://zibojia.github.io/" target="_blank">Bojia Zi</a>, The Chinese University of Hong Kong
-- <a href="https://scholar.google.com/citations?user=tTUajvgAAAAJ&amp;hl=en" target="_blank">Penghui Ruan</a>, The Hong Kong Polytechnic University
+- <a href="https://zibojia.github.io/" target="_blank">Bojia Zi</a>*, The Chinese University of Hong Kong
+- <a href="https://scholar.google.com/citations?user=tTUajvgAAAAJ&amp;hl=en" target="_blank">Penghui Ruan</a>*, The Hong Kong Polytechnic University
 - <a href="https://openreview.net/profile?id=~Marco_Chen1" target="_blank">Marco Chen</a>, Tsinghua University
-- <a href="https://scholar.google.com/citations?user=odjSydQAAAAJ&amp;hl=en" target="_blank">Xianbiao Qi</a>, IntelliFusion Inc.
+- <a href="https://scholar.google.com/citations?user=odjSydQAAAAJ&amp;hl=en" target="_blank">Xianbiao Qi</a>†, IntelliFusion Inc.
 - <a href="https://haoosz.github.io/" target="_blank">Shaozhe Hao</a>, The University of Hong Kong
 - <a href="https://shihaozhaozsh.github.io/" target="_blank">Shihao Zhao</a>, The University of Hong Kong
 - <a href="https://openreview.net/profile?id=~Youze_Huang1" target="_blank">Youze Huang</a>, University of Electronic Science and Technology of China
