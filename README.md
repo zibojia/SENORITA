@@ -2,6 +2,9 @@
 
 <img src="https://api.infinitescript.com/badgen/count?name=zibojia/SENORITA">
 <img src="https://api.infinitescript.com/badgen/count?name=sczhou/ProPainter">
+
+![访客统计](https://api.infinitescript.com/badgen/count?name=zibojia/SENORITA)
+
           
 
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
