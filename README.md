@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L5rZQs-5EjM" frameborder="0" allowfullscreen></iframe>
+[![GitHub视频](https://img.youtube.com/vi/L5rZQs-5EjM/0.jpg)%5D(https://www.youtube.com/watch?v=L5rZQs-5EjM)
 
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
