@@ -1,11 +1,11 @@
-[![GitHub视频](https://img.youtube.com/vi/L5rZQs-5EjM/0.jpg)](https://www.youtube.com/watch?v=L5rZQs-5EjM)
-
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zibojia&repo=SENORITA&label=visitors)
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
 [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/) 
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/SENORITADATASET/Senorita)
+
+[![Youtube Video](./images/video.PNG)](https://youtu.be/sFgfnUpxmgI)
 
 ## 📑 Content
 
