@@ -1,5 +1,10 @@
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
+<!-- Señorita-2M Links | 
+[![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
+[![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/) 
+[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/SENORITADATASET/Senorita) -->
+
 ## Overview
 
 Señorita-2M is a comprehensive and high-quality dataset designed for general video editing tasks. It consists of a vast collection of videos with detailed instructions provided by video specialists. Our dataset aims to facilitate the development and evaluation of advanced video editing algorithms.
@@ -27,42 +32,25 @@ Our dataset consists of 17 editing tasks. Five of these tasks are edited by our 
 ## Sample Images
 
 ### Teaser
-![Teaser](images/teaser.PNG)
+![Teaser](imgs/teaser.PNG)
 
 ### Global Stylization
-![Global Stylization](images/global_stylization.PNG)
+![Global Stylization](imgs/global_stylization.PNG)
 
 ### Local Stylization
-![Local Stylization](images/local_stylization.PNG)
+![Local Stylization](imgs/local_stylization.PNG)
 
 ### Object Removal
-![Object Removal](images/object_removal.PNG)
+![Object Removal](imgs/object_removal.PNG)
 
 ### Object Swap
-![Object Swap](images/object_swap.PNG)
-
-## Dataset Structure
-
-The dataset is organized into several categories, each representing a different type of video editing task. Below is a brief overview of the categories:
-
-1. **Global Stylization**: Videos in this category involve applying a consistent style across the entire video.
-2. **Local Stylization**: This category focuses on applying styles to specific regions within the video.
-3. **Object Removal**: Videos where one or more objects are removed seamlessly.
-4. **Object Swap**: Involves replacing one object in the video with another.
+![Object Swap](imgs/object_swap.PNG)
 
 ## Citation
 
 If you use Señorita-2M in your research, please cite our work as follows:
 
 ```
-@dataset{senorita2m2025,
-  author    = {Bojia Zi and Penghui Ruan and Marco Chen and Xianbiao Qi and Shaozhe Hao and Shihao Zhao and Youze Huang and Bin Liang and Rong Xiao and Kam-Fai Wong},
-  title     = {Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists},
-  year      = {2025},
-  publisher = {Video Editing Research Group},
-  url       = {https://example.com/senorita2m}
-}
-
 @article{zi2025senorita,
   title={Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists},
   author={Bojia Zi and Penghui Ruan and Marco Chen and Xianbiao Qi and Shaozhe Hao and Shihao Zhao and Youze Huang and Bin Liang and Rong Xiao and Kam-Fai Wong},
@@ -88,11 +76,10 @@ If you use Señorita-2M in your research, please cite our work as follows:
 
 ## Links
 
-- [Model](https://huggingface.co/PengWeixuanSZU/Senorita-2M)
-- [Demo Page](https://senorita-2m-dataset.github.io/)
-- [Dataset](https://huggingface.co/datasets/SENORITADATASET/Senorita)
+- [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M)
+- [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/)
+- [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/SENORITADATASET/Senorita)
 
 ## Contact
 
 For more information or any queries regarding the dataset, please contact us at [info@example.com](mailto:info@example.com).
-
