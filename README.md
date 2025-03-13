@@ -1,4 +1,4 @@
-[![GitHub视频](https://img.youtube.com/vi/L5rZQs-5EjM/0.jpg)%5D(https://www.youtube.com/watch?v=L5rZQs-5EjM)
+[![GitHub视频](https://img.youtube.com/vi/L5rZQs-5EjM/0.jpg)](https://www.youtube.com/watch?v=L5rZQs-5EjM)
 
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
