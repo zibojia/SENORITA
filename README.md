@@ -1,6 +1,6 @@
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=zibojia.SENORITA)
+![Visitor Count](https://komarev.com/ghpvc/?username=zibojia&repo=SENORITA)
 
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
 [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/) 
