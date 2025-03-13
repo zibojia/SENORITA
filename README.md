@@ -74,12 +74,6 @@ If you use Señorita-2M in your research, please cite our work as follows:
 
 **Note**: * indicates equal contribution. † indicates the corresponding author.
 
-## Links
-
-- [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M)
-- [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/)
-- [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/SENORITADATASET/Senorita)
-
 ## Contact
 
-For more information or any queries regarding the dataset, please contact us at [info@example.com](mailto:info@example.com).
+For more information or any queries regarding the dataset, please contact us at [info@example.com](19210240030@fudan.edu.cn).
