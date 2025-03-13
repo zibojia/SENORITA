@@ -5,9 +5,7 @@
 
 ![访客统计](https://api.infinitescript.com/badgen/count?name=zibojia/SENORITA)
 
-![访问统计](https://count.getloli.com/get/@zibojia_SENORITA)
-
-[![访问统计](https://img.shields.io/endpoint?url=https://your-service.vercel.app/badge)](https://github.com/zibojia/SENORITA)
+[![访问统计](https://img.shields.io/endpoint?url=https://github.com/zibojia/SENORITA)](https://github.com/zibojia/SENORITA)
 
 
 
