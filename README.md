@@ -1,8 +1,7 @@
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
-<img src="https://api.infinitescript.com/badgen/count?name=zibojia/SENORITA">
+![Visitors](https://img.shields.io/badge/dynamic/json?color=green&label=Visitors&query=value&url=https%3A%2F%2Fvisitor-badge.glitch.me%2Fbadge%2Fget%3Fpage_id%3Dzibojia.SENORITA)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=zibojia.SENORITA)
 
 
 
