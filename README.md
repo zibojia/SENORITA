@@ -1,5 +1,7 @@
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
+![Repo Count](https://api.infinitescript.com/badgen/count?name=zibojia/SENORITA)
+
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
 [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/) 
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/SENORITADATASET/Senorita)
@@ -44,12 +46,6 @@ Our dataset consists of 17 editing tasks. Five of these tasks are edited by our 
 
 ### Object Swap
 ![Object Swap](images/object_swap.PNG)
-
-### Sample Video
-<video width="320" height="240" controls>
-  <source src="https://senorita-2m-dataset.github.io/videos/f43efb937ea22a98c7d9f5c389e68d26.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Citation
 
