@@ -1,9 +1,6 @@
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
 <img src="https://api.infinitescript.com/badgen/count?name=zibojia/SENORITA">
-<img src="https://api.infinitescript.com/badgen/count?name=sczhou/ProPainter">
-
-![访客统计](https://api.infinitescript.com/badgen/count?name=zibojia/SENORITA)
 
 [![访问统计](https://img.shields.io/endpoint?url=https://github.com/zibojia/SENORITA)](https://github.com/zibojia/SENORITA)
 
