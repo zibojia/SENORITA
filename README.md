@@ -23,6 +23,7 @@
 - [🛠️ How to Use](#-how-to-use)
   - [📦 Install Dependencies](#-install-dependencies)
   - [📥 Download Pretrained Model](#-download-pretrained-model)
+  - [🚀 Run the Application](#-run-the-application)
 - [👥 Authors](#-authors)
 - [🔖 Citation](#-citation)
 - [📧 Contact](#-contact)
@@ -93,6 +94,14 @@ huggingface-cli download --resume-download THUDM/CogVideoX-5b-I2V --local-dir ./
 
 ```sh
 huggingface-cli download --resume-download PengWeixuanSZU/Senorita-2M --local-dir ./
+```
+
+### 🚀 Run the Application
+
+To run the application, use the following command:
+
+```sh
+CUDA_VISIBLE_DEVICES=0 python3 app.py
 ```
 
 ## 👥 Authors
