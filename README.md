@@ -34,7 +34,9 @@ Señorita-2M is a comprehensive and high-quality dataset designed for general vi
 
 ## 📜 Abstract
 
-Recent advancements in video generation have spurred the development of video editing techniques, which can be divided into inversion-based and end-to-end methods. However, current video editing methods still face challenges in quality and efficiency.
+Recent advancements in video generation have spurred the development of video editing techniques, which can be divided into inversion-based and end-to-end methods. However, current video editing methods still suffer from several challenges. Inversion-based methods, though training free and flexible, are time-consuming during inference, struggle with fine-grained editing instructions, and produce artifacts and jitter. On the other hand, end-to-end methods, which rely on edited video pairs for training, offer faster inference speeds but often produce poor editing results due to a lack of high-quality training video pairs. In this paper, to close the gap in end-to-end methods, we introduce Señorita-2M, a high-quality video editing dataset. Señorita-2M consists of approximately 2 million video editing pairs. It is built by crafting four high-quality, specialized video editing models, each crafted and trained by our team to achieve state-of-the-art editing results. We also propose a filtering pipeline to eliminate poorly edited video pairs. Furthermore, we explore common video editing architectures to identify the most effective structure based on current pre-trained generative model. Extensive experiments show that our dataset can help to yield remarkably high-quality video editing results.
+
+
 
 ## ✨ Key Features
 
