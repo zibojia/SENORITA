@@ -76,4 +76,4 @@ If you use Señorita-2M in your research, please cite our work as follows:
 
 ## Contact
 
-For more information or any queries regarding the dataset, please contact us at [info@example.com](19210240030@fudan.edu.cn).
+For more information or any queries regarding the dataset, please contact us at [19210240030@fudan.edu.cn](19210240030@fudan.edu.cn).
