@@ -32,19 +32,19 @@ Our dataset consists of 17 editing tasks. Five of these tasks are edited by our 
 ## Sample Images
 
 ### Teaser
-![Teaser](imgs/teaser.PNG)
+![Teaser](images/teaser.PNG)
 
 ### Global Stylization
-![Global Stylization](imgs/global_stylization.PNG)
+![Global Stylization](images/global_stylization.PNG)
 
 ### Local Stylization
-![Local Stylization](imgs/local_stylization.PNG)
+![Local Stylization](images/local_stylization.PNG)
 
 ### Object Removal
-![Object Removal](imgs/object_removal.PNG)
+![Object Removal](images/object_removal.PNG)
 
 ### Object Swap
-![Object Swap](imgs/object_swap.PNG)
+![Object Swap](images/object_swap.PNG)
 
 ## Citation
 
