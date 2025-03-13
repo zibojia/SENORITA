@@ -1,11 +1,6 @@
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
-![Visitors](https://img.shields.io/badge/visitor-zibojia.SENORITA-blue)
-
-
-
-
-          
+<img src="https://api.infinitescript.com/badgen/count?name=zibojia/SENORITA">
 
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
 [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/) 
