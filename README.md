@@ -27,7 +27,7 @@ Furthermore, we trained multiple video editors based on different video editing 
 
 ## Editing Tasks
 
-Our dataset consists of 17 editing tasks. Five of these tasks are edited by our trained experts, while the remaining tasks are handled by computer vision tasks. The former sub-dataset occupies around 70% of the total dataset size.
+Our dataset consists of 18 editing tasks. Five of these tasks are edited by our trained experts, while the remaining tasks are handled by computer vision tasks. The former sub-dataset occupies around 70% of the total dataset size.
 
 ## Sample Images and Videos
 
