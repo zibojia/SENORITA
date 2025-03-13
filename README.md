@@ -1,17 +1,16 @@
 # Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists
 
-
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
 [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/) 
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/SENORITADATASET/Senorita)
 
 ## Overview
 
-Señorita-2M is a comprehensive and high-quality dataset designed for general video editing tasks. It consists of a vast collection of videos with detailed instructions provided by video specialists. Our dataset aims to facilitate the development and evaluation of advanced video editing algorithms.
+Señorita-2M is a comprehensive and high-quality dataset designed for general video editing tasks. It consists of a vast collection of videos with detailed instructions provided by video specialists.
 
 ## Abstract
 
-Recent advancements in video generation have spurred the development of video editing techniques, which can be divided into inversion-based and end-to-end methods. However, current video editing methods still suffer from several challenges. Inversion-based methods, though training free and flexible, are time-consuming during inference, struggle with fine-grained editing instructions, and produce artifacts and jitter. On the other hand, end-to-end methods, which rely on edited video pairs for training, offer faster inference speeds but often produce poor editing results due to a lack of high-quality training video pairs. In this paper, to close the gap in end-to-end methods, we introduce Señorita-2M, a high-quality video editing dataset. Señorita-2M consists of approximately 2 million video editing pairs. It is built by crafting four high-quality, specialized video editing models, each crafted and trained by our team to achieve state-of-the-art editing results. We also propose a filtering pipeline to eliminate poorly edited video pairs. Furthermore, we explore common video editing architectures to identify the most effective structure based on current pre-trained generative model. Extensive experiments show that our dataset can help to yield remarkably high-quality video editing results.
+Recent advancements in video generation have spurred the development of video editing techniques, which can be divided into inversion-based and end-to-end methods. However, current video editing methods still face challenges in quality and efficiency.
 
 ## Key Features
 
@@ -21,18 +20,18 @@ Recent advancements in video generation have spurred the development of video ed
 
 ## Dataset Construction
 
-We built the dataset by leveraging high-quality video editing experts. Specifically, we trained four high-quality video editing experts using CogVideoX: a global stylizer, a local stylizer, an inpainting model, and a remover. These experts, along with other specialized models, are used to construct a large-scale dataset of high-quality video editing samples. Additionally, we designed a filtering pipeline that effectively removes failed video samples. We also utilized a large language model to convert video editing prompts, achieving clear and effective instructions. As a result, Señorita-2M contains approximately 2 million high-quality video editing pairs.
+We built the dataset by leveraging high-quality video editing experts. Specifically, we trained four high-quality video editing experts using CogVideoX: a global stylizer, a local stylizer, an inpainting expert, and a super-resolution expert.
 
-Furthermore, we trained multiple video editors based on different video editing architectures using this dataset to evaluate the effectiveness of various editing frameworks, ultimately achieving impressive editing capabilities.
+Furthermore, we trained multiple video editors based on different video editing architectures using this dataset to evaluate the effectiveness of various editing frameworks, ultimately achieving impressive results.
 
 ## Editing Tasks
 
-Our dataset consists of 17 editing tasks. Five of these tasks are edited by our trained experts, while the remaining tasks are handled by computer vision tasks. The former sub-dataset occupies around 76.8% of the video pairs in the dataset, while the latter 12 tasks take up 23.2% of the video pairs in total.
+Our dataset consists of 17 editing tasks. Five of these tasks are edited by our trained experts, while the remaining tasks are handled by computer vision tasks. The former sub-dataset occupies around 70% of the total dataset size.
 
-## Sample Images
+## Sample Images and Videos
 
-### Teaser
-![Teaser](images/teaser.PNG)
+### Dataset Construction Pipeline
+![Dataset Construction Pipeline](images/teaser.PNG)
 
 ### Global Stylization
 ![Global Stylization](images/global_stylization.PNG)
@@ -45,6 +44,12 @@ Our dataset consists of 17 editing tasks. Five of these tasks are edited by our 
 
 ### Object Swap
 ![Object Swap](images/object_swap.PNG)
+
+### Sample Video
+<video width="320" height="240" controls>
+  <source src="https://senorita-2m-dataset.github.io/videos/f43efb937ea22a98c7d9f5c389e68d26.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Citation
 
