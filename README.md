@@ -5,7 +5,7 @@
 [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/) 
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/SENORITADATASET/Senorita)
 
-[![Youtube Video](./images/video.PNG)](https://youtu.be/sFgfnUpxmgI)
+[![Youtube Video](./images/video.PNG)](https://www.youtube.com/watch?v=gjxxwaJ8pO8)
 
 ## 📑 Content
 
