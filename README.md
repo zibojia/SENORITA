@@ -4,6 +4,8 @@
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
 [![Demo Page](https://img.shields.io/badge/Website-Demo%20Page-green)](https://senorita-2m-dataset.github.io/) 
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/SENORITADATASET/Senorita)
+[![Space](https://img.shields.io/badge/HuggingFace-Space-orange)](https://huggingface.co/spaces/PengWeixuanSZU/Senorita)
+
 
 [![Youtube Video](./images/video.PNG)](https://www.youtube.com/watch?v=gjxxwaJ8pO8)
 
