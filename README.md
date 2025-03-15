@@ -42,9 +42,9 @@ Recent advancements in video generation have spurred the development of video ed
 
 ## ✨ Key Features
 
-- **High-Quality Annotations**: Each video in the dataset is accompanied by precise and detailed instructions from professional video editors.
-- **Diverse Editing Tasks**: The dataset covers a wide range of video editing tasks, including object removal, object swap, global and local stylization.
-- **Large Scale**: With over **2 million** video clips, Señorita-2M is one of the largest video editing datasets available.
+- **High-Quality Annotations**: Each video in the dataset is accompanied by edited videos from professional video editors.
+- **Diverse Editing Tasks**: The dataset covers a wide range of video editing tasks, 18 editing tasks in total, including object removal, object swap,object addition, global and local stylization.
+- **Large Scale**: With over **2 million** video pairs, Señorita-2M is one of the largest video editing datasets available.
 
 ## 🏗️ Dataset Construction
 
