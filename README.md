@@ -10,7 +10,7 @@
 [![Youtube Video](./images/video.PNG)](https://www.youtube.com/watch?v=gjxxwaJ8pO8)
 
 
-**The new model will be coming soon. Wan2.1 base model.**
+## ***The new model will be coming soon. Wan2.1 base model.***
 
 
 ## 📑 Content
