@@ -1,4 +1,4 @@
-# Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists **[Weights and Dataset]**
+# Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists *[Weights and Dataset]*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zibojia&repo=SENORITA&label=visitors)
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/PengWeixuanSZU/Senorita-2M) 
